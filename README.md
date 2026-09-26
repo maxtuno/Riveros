@@ -1,6 +1,6 @@
 # El mercado del arte en 2025 — resumen para artistas
 
-Resumen visual y crítico de **The Art Basel and UBS Art Market Report 2026 by Arts Economics** (datos de 2025), pensado para exponerse ante artistas.
+Resumen visual y crítico de **The Art Basel and UBS Art Market Report 2026 by Arts Economics** (datos de 2025).
 
 El objetivo de este material es **leer los datos sin el sesgo optimista** de los titulares: el informe habla de «recuperación», «retorno al crecimiento» y un «+4%», pero ese crecimiento es un rebote pequeño tras dos años de caída y sigue por debajo de los niveles de 2022 y de 2015.
 
