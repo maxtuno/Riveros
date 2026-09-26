@@ -1,4 +1,4 @@
-# El mercado del arte en 2025 — resumen para artistas
+# El mercado del arte en 2025 por Riveros
 
 Resumen visual y crítico de **The Art Basel and UBS Art Market Report 2026 by Arts Economics** (datos de 2025).
 
