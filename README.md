@@ -116,43 +116,6 @@ Las mujeres son el 45% de los artistas representados y generan el 37% de las ven
 
 ---
 
-## Metodología y reproducibilidad
-
-- Los datos se extrajeron del PDF original del informe y las gráficas se generaron con Python (matplotlib) a partir de las cifras publicadas en el texto y las figuras del informe.
-- Los gráficos de este repositorio son **elaboración propia** a partir de los datos del informe; no reproducen las figuras originales.
-- Porcentajes redondeados a enteros, tal como los reporta la fuente.
-- Todas las cifras monetarias están en dólares estadounidenses (USD).
-
-Estructura del repositorio:
-
-```
-.
-├── README.md                     # este documento
-├── resumen.md                    # resumen en texto (≤ 2.100 caracteres)
-├── graficos/                     # gráficos en PNG
-│   ├── 01_mercado_global.png
-│   ├── 02_variacion_anual.png
-│   ├── 03_galerias_margenes.png
-│   ├── 04_concentracion_artistas.png
-│   ├── 05_subastas_segmentos.png
-│   ├── 06_contemporaneo.png
-│   └── 07_genero.png
-├── charts.py                     # script que genera los gráficos (autónomo)
-└── extract.py                    # utilidad para extraer texto de un PDF (requiere el informe original)
-```
-
-> **Nota sobre el informe original:** el PDF del informe **no se incluye** en este repositorio por derechos de autor. Los datos usados se citan y referencian, y `charts.py` contiene las cifras de forma autónoma, por lo que las gráficas se pueden regenerar sin el PDF. Para consultar el informe completo, visite <https://theartmarket.artbasel.com>.
-
-Reproducir las gráficas (no requiere el PDF):
-
-```bash
-python -m venv .venv
-.venv\Scripts\pip install matplotlib   # Windows
-python charts.py
-```
-
----
-
 ## Aviso legal
 
 Este repositorio es un **resumen y análisis independiente** con fines informativos y educativos, elaborado a partir de un informe publicado por terceros. No está afiliado, patrocinado ni avalado por Art Basel, UBS ni Arts Economics.
