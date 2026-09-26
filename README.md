@@ -112,7 +112,7 @@ Las mujeres son el 45% de los artistas representados y generan el 37% de las ven
 
 **Cómo citar este resumen:**
 
-> *El mercado del arte en 2025: resumen para artistas*, elaborado a partir de McAndrew, C. (2026), *The Art Basel and UBS Art Market Report 2026*, Arts Economics.
+> *El mercado del arte en 2025*, elaborado a partir de McAndrew, C. (2026), *The Art Basel and UBS Art Market Report 2026*, Arts Economics.
 
 ---
 
