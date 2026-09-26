@@ -6,7 +6,7 @@ El objetivo de este material es **leer los datos sin el sesgo optimista** de los
 
 ---
 
-## Resumen (≤ 2.100 caracteres)
+## Resumen
 
 > **EL MERCADO DEL ARTE EN 2025: QUÉ DICEN LOS DATOS**
 > *(Resumen para artistas · Informe Art Basel & UBS 2026, datos de 2025)*
