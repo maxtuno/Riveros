@@ -9,7 +9,7 @@ El objetivo de este material es **leer los datos sin el sesgo optimista** de los
 ## Resumen
 
 > **EL MERCADO DEL ARTE EN 2025: QUÉ DICEN LOS DATOS**
-> *(Resumen para artistas · Informe Art Basel & UBS 2026, datos de 2025)*
+> *(Resumen · Informe Art Basel & UBS 2026, datos de 2025)*
 >
 > 1. El titular dice "el mercado volvió a crecer 4%". Contexto: ese +4% llega tras caer 12% en 2024 y 4% en 2023. Las ventas globales (59.600 millones USD) siguen 12% por debajo del pico de 2022 y 7% por debajo de 2015. Es un rebote, no una recuperación.
 > 2. Galerías: las ventas subieron 2%, pero sus costos operativos 5%. El 38% de las galerías ganó menos que en 2024 y solo el 33% ganó más. Vender más no significó ganar más.
